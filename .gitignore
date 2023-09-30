@@ -1,0 +1,82 @@
+### WhatToDoInSingapore_backend ###
+/WhatToDoInSingapore_backend/HELP.md
+/WhatToDoInSingapore_backend/target/
+/WhatToDoInSingapore_backend/!.mvn/wrapper/maven-wrapper.jar
+/WhatToDoInSingapore_backend/!**/src/main/**/target/
+/WhatToDoInSingapore_backend/!**/src/test/**/target/
+/WhatToDoInSingapore_backend/src/main/resources/application.properties
+
+### STS ###
+/WhatToDoInSingapore_backend/.apt_generated
+/WhatToDoInSingapore_backend/.classpath
+/WhatToDoInSingapore_backend/.factorypath
+/WhatToDoInSingapore_backend/.project
+/WhatToDoInSingapore_backend/.settings
+/WhatToDoInSingapore_backend/.springBeans
+/WhatToDoInSingapore_backend/.sts4-cache
+
+### IntelliJ IDEA ###
+/WhatToDoInSingapore_backend/.idea
+/WhatToDoInSingapore_backend/*.iws
+/WhatToDoInSingapore_backend/*.iml
+/WhatToDoInSingapore_backend/*.ipr
+
+### NetBeans ###
+/WhatToDoInSingapore_backend/nbproject/private/
+/WhatToDoInSingapore_backend/nbbuild/
+/WhatToDoInSingapore_backend/dist/
+/WhatToDoInSingapore_backend/nbdist/
+/WhatToDoInSingapore_backend/.nb-gradle/
+/WhatToDoInSingapore_backend/build/
+/WhatToDoInSingapore_backend/!**/src/main/**/build/
+/WhatToDoInSingapore_backend/!**/src/test/**/build/
+
+### VS Code ###
+/WhatToDoInSingapore_backend/.vscode/
+
+### WhatToDoInSingapore_client ###
+# Compiled output
+/WhatToDoInSingapore_client/dist
+/WhatToDoInSingapore_client/tmp
+/WhatToDoInSingapore_client/out-tsc
+/WhatToDoInSingapore_client/bazel-out
+
+# Node
+/WhatToDoInSingapore_client/node_modules
+/WhatToDoInSingapore_client/npm-debug.log
+/WhatToDoInSingapore_client/yarn-error.log
+
+# IDEs and editors
+/WhatToDoInSingapore_client/.idea/
+/WhatToDoInSingapore_client/.project
+/WhatToDoInSingapore_client/.classpath
+/WhatToDoInSingapore_client/.c9/
+/WhatToDoInSingapore_client/*.launch
+/WhatToDoInSingapore_client/.settings/
+/WhatToDoInSingapore_client/*.sublime-workspace
+
+# Visual Studio Code
+/WhatToDoInSingapore_client/.vscode/*
+/WhatToDoInSingapore_client/!.vscode/settings.json
+/WhatToDoInSingapore_client/!.vscode/tasks.json
+/WhatToDoInSingapore_client/!.vscode/launch.json
+/WhatToDoInSingapore_client/!.vscode/extensions.json
+/WhatToDoInSingapore_client/.history/*
+
+# Miscellaneous
+/WhatToDoInSingapore_client/.angular/cache
+/WhatToDoInSingapore_client/.sass-cache/
+/WhatToDoInSingapore_client/connect.lock
+/WhatToDoInSingapore_client/coverage
+/WhatToDoInSingapore_client/libpeerconnection.log
+/WhatToDoInSingapore_client/testem.log
+/WhatToDoInSingapore_client/typings
+
+# System files
+/WhatToDoInSingapore_client/.DS_Store
+/WhatToDoInSingapore_client/Thumbs.db
+
+
+### Both ###
+.DS_Store
+.vscode
