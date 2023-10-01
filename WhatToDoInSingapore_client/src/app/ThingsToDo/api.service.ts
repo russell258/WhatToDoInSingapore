@@ -18,6 +18,7 @@ export class APIService {
   request(method: string,url:string,data:any): Observable<any>{
     let headers:any;
 
+    //this headers API key need to shift to backend
     headers = new HttpHeaders().set('X-API-Key', 'JAPI KEY shift to backend');
 
     switch(method.toLowerCase()){
