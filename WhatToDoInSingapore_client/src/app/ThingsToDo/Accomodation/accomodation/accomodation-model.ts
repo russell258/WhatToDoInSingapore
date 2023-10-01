@@ -30,7 +30,7 @@ export interface Accomodation{
         postalCode: string
     };
     thumbnails: [];
-    images: [];
+    images?: Image[];
     videos: [];
     documents:[];
     source: string;
@@ -74,4 +74,11 @@ export interface Link{
     href: string;
     rel: string;
     method: string;
+}
+
+export interface Image{
+    uuid: string;
+    url: string;
+    libraryUuid: string;
+    primaryFileMediumUuid: string;
 }
