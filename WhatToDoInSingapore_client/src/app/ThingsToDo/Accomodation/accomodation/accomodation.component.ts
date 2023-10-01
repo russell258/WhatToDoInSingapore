@@ -4,7 +4,7 @@ import { APIService } from '../../api.service';
 @Component({
   selector: 'app-accomodation',
   templateUrl: './accomodation.component.html',
-  styleUrls: ['./accomodation.component.css']
+  styleUrls: ['./accomodation.component.scss']
 })
 export class AccomodationComponent {
 
