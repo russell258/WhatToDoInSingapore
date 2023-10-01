@@ -1,0 +1,441 @@
+{
+    "status": {
+      "code": 200,
+      "name": "OK",
+      "message": "Accommodation retrieved successfully."
+    },
+    "data": [
+      {
+        "uuid": "0019e6412a38eb84c7f900f57ecf5c16e2f",
+        "name": "Butternut Tree Singapore",
+        "type": "Hotels",
+        "tags": [
+          "Activities"
+        ],
+        "description": "A short 3-minute walk from Outram Park MRT Station, Butternut Tree Hotel provides modern air-conditioned rooms with free Wi-Fi. Computer stations with free wired internet are also available in the recreation area. The front desk operates 24 hours.",
+        "body": "A short 3-minute walk from Outram Park MRT Station, Butternut Tree Hotel provides modern air-conditioned rooms with free Wi-Fi. Computer stations with free wired internet are also available in the recreation area. The front desk operates 24 hours.",
+        "rating": 3.8,
+        "location": {
+          "latitude": 1.28218,
+          "longitude": 103.84415
+        },
+        "address": {
+          "block": "",
+          "streetName": "22 Teck Lim Road,",
+          "floorNumber": "",
+          "unitNumber": "",
+          "buildingName": "",
+          "postalCode": "088392"
+        },
+        "thumbnails": [],
+        "images": [],
+        "videos": [],
+        "documents": [],
+        "source": "Chinatown Business Association",
+        "metadata": {
+          "updatedDate": "2020-08-12T18:21:06+08:00",
+          "createdDate": "2020-08-12T18:21:06+08:00"
+        },
+        "categoryDescription": "Accommodation",
+        "dataset": "accommodation",
+        "leadInRoomRates": "",
+        "reviews": [
+          {
+            "authorName": "Alvin Ang",
+            "authorURL": "https://www.google.com/maps/contrib/111065750546308240296/reviews",
+            "language": "en",
+            "profilePhoto": "https://lh3.googleusercontent.com/a/AItbvmmSjBZBxRittpcVSkQC0uduoF2iqScYJ17POHSN=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "text": "I book through Agoda on the 30 Aug at around 4pm. And I reached the hotel at 1015pm for my check in. However the receptionist was saying not able to find my booking. And it dragged till 1045pm, and then I able to check into the hotel. Very poor service provided.\n\nUpon checking in, the room is very dirty. There's were dirt on the floor, hair on the floor. Hair inside the fridge. Dirty fingerprints all over the mirror. Worst of all, the door was faulty.\n\nI able to enter the hotel room without using my access card to tap in to my room. I went out during the midnight and purchase something, and leaving my girlfriend sleeping in the room alone. Without knowing the door is faulty. I only get to know my room is faulty in the next morning. So my question is, what if anything happen to my girlfriend, who is going to take responsibility for this?\n\nIsn't it housekeeper duties to ensure everything goes well in the hotel? Be it neat and tidy and ensure all the safety precautions are taken care of?",
+            "time": "2022-09-01T13:53:08+08:00"
+          },
+          {
+            "authorName": "The White Shiba",
+            "authorURL": "https://www.google.com/maps/contrib/102998333949104852884/reviews",
+            "language": "en",
+            "profilePhoto": "https://lh3.googleusercontent.com/a-/AFdZucrY6g39nWVBQd3iCSEp9jf5J_Mbrs_XNA-KNJmq=s128-c0x00000000-cc-rp-mo",
+            "rating": 2,
+            "text": "Great location and great price for my room (~50SGD), however it was obvious there was minimal to no effort to clean my room after the last person had checked out. There was hair all over the floor and on the bed underneath the blanket. The towel they gave me was dirty and the pillow case had holes and lipstick on it. Also, the shower did not have hot water for the duration of my stay even during non-peak showing times such as 8PM.\n\nFront desk also called my room at 7AM for a wake up call (I'm assuming they meant to call another room) but were generally pretty nice, providing me with a new pillow case and towel when I asked.",
+            "time": "2022-08-16T04:09:52+08:00"
+          },
+          {
+            "authorName": "Andyan Adhimukti",
+            "authorURL": "https://www.google.com/maps/contrib/116600235939471716636/reviews",
+            "language": "en",
+            "profilePhoto": "https://lh3.googleusercontent.com/a/AItbvmkCzUNPN_OeNJbbT4pdIiamCAoF8c36K5YvtyCn=s128-c0x00000000-cc-rp-mo",
+            "rating": 5,
+            "text": "Tl;dr : I highly recommend this place 👍\n\nI really recommended this place if you wanted to stay near the Chinatown !\n\nThe staffs are really friendly and helpful.\n\nThe location is also great, only 5-10 minutes from bus and MRT stations. Its also at the same line, whether you came from airport or ferry port.\n\nMy only problem is the sprinkler is kinda broken when we came here. But it is not really significant for me.",
+            "time": "2022-08-19T04:11:12+08:00"
+          },
+          {
+            "authorName": "Alex",
+            "authorURL": "https://www.google.com/maps/contrib/118407858021385245671/reviews",
+            "language": "en",
+            "profilePhoto": "https://lh3.googleusercontent.com/a/AItbvmlPq-aNa6bAKGQf_KEdgCz7ZMI_VIDXWZYAJAR7=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 2,
+            "text": "Great location, one lady behind the counter was quite kind, but the rooms are just straight up filthy. I'm not particularly picky and can accept quite a few shortcomings, but the walls have all kinds of old dirt and stains on them, the ceiling looks moldy, I did not want to touch the bathroom \"door\", the towels are literally falling apart, the linens have holes in them... Apart from the somewhat pretty entrance, everything else looks utterly deprecated, old, in dire need of repair or replacement, etc.\n\nThe location is the only thing this hotel has going for it. I'd advise actually entering the room first before checking in.",
+            "time": "2022-06-23T12:07:46+08:00"
+          },
+          {
+            "authorName": "Heidy Crystal",
+            "authorURL": "https://www.google.com/maps/contrib/117507898903777401835/reviews",
+            "language": "en",
+            "profilePhoto": "https://lh3.googleusercontent.com/a-/AFdZuco0wldoiT8yIn9xwTASbwmqQ8LsRT0dUoV8GaN0fQ=s128-c0x00000000-cc-rp-mo-ba5",
+            "rating": 5,
+            "text": "Love it here\nNear train station, also.\nGot Hot Water for Shower at Night though, at morning cannot hot, maybe alot of people stay there using hot water.   I'm OK and very ok with that.",
+            "time": "2022-07-29T18:23:24+08:00"
+          }
+        ],
+        "companyDisplayName": "Chinatown Business Association",
+        "supportedLanguage": [
+          "EN"
+        ],
+        "leadInRoomSize": "",
+        "noOfRooms": 0,
+        "amenities": "",
+        "contact": {
+          "primaryContactNo": "+65 6904 8541",
+          "secondaryContactNo": ""
+        },
+        "nearestMrtStation": "Outram MRT Station",
+        "officialWebsite": "https://www.facebook.com/pg/butternuttreesg/",
+        "officialEmail": "",
+        "staYear": "",
+        "group": "SGClean",
+        "temporarilyClosed": "",
+        "links": [
+          {
+            "href": "https://api.stb.gov.sg/content-management/accommodation/v2/0019e6412a38eb84c7f900f57ecf5c16e2f",
+            "rel": "update",
+            "method": "PUT"
+          },
+          {
+            "href": "https://api.stb.gov.sg/content-management/accommodation/v2/0019e6412a38eb84c7f900f57ecf5c16e2f",
+            "rel": "delete",
+            "method": "DELETE"
+          }
+        ]
+      },
+      {
+        "uuid": "001a6038870d401408680eed2d279bb35f0",
+        "name": "Dorsett Singapore",
+        "type": "Hotels",
+        "tags": [
+          "Activities"
+        ],
+        "description": "Located above the Outram Park MRT Station, Dorsett Singapore offers easy accessibility to the city’s commercial and tourist highlights, such as the Singapore’s entertainment and shopping belt Orchard Road, Marina Bay Sands, HarbourFront, Resorts World Sentosa, Universal Studios Singapore and Singapore’s Central Business District. Surrounded by a myriad of shop houses and local eateries, be enchanted by the nostalgic sights of the traditional Chinese quarter of town – Chinatown, where one recollects traces of olden days Singapore.",
+        "body": "Located above the Outram Park MRT Station, Dorsett Singapore offers easy accessibility to the city’s commercial and tourist highlights, such as the Singapore’s entertainment and shopping belt Orchard Road, Marina Bay Sands, HarbourFront, Resorts World Sentosa, Universal Studios Singapore and Singapore’s Central Business District. Surrounded by a myriad of shop houses and local eateries, be enchanted by the nostalgic sights of the traditional Chinese quarter of town – Chinatown, where one recollects traces of olden days Singapore.",
+        "rating": 4.1,
+        "location": {
+          "latitude": 1.28218,
+          "longitude": 103.84415
+        },
+        "address": {
+          "block": "",
+          "streetName": "333 New Bridge Road,",
+          "floorNumber": "",
+          "unitNumber": "",
+          "buildingName": "",
+          "postalCode": "088765"
+        },
+        "thumbnails": [],
+        "images": [
+          {
+            "uuid": "",
+            "url": "https://chinatown.sg/wp-content/uploads/2020/06/dorsett-singapore-1.jpg",
+            "libraryUuid": "",
+            "primaryFileMediumUuid": ""
+          }
+        ],
+        "videos": [
+          {
+            "uuid": "",
+            "url": "https://www.youtube.com/watch?v=ryrl7tiDvh0",
+            "libraryUuid": "",
+            "primaryFileMediumUuid": ""
+          }
+        ],
+        "documents": [],
+        "source": "Chinatown Business Association",
+        "metadata": {
+          "updatedDate": "2020-08-24T12:06:26+08:00",
+          "createdDate": "2020-08-10T11:40:00+08:00"
+        },
+        "categoryDescription": "Accommodation",
+        "dataset": "accommodation",
+        "leadInRoomRates": "",
+        "reviews": [
+          {
+            "authorName": "Norhayati Shamsudin",
+            "authorURL": "https://www.google.com/maps/contrib/105236533792511246291/reviews",
+            "language": "en",
+            "profilePhoto": "https://lh3.googleusercontent.com/a/AItbvmnbEspPzbuEMe2YWmBqIT5wvMuBJ49K8mx1ZKyg=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "text": "1 star just because it good location. The room is not clean upon check in .. Pool is closed and we never got told this before so we just wasted a lot of money on this hotel as we wanted a pool for our kids ...is better we could have stayed in a cheaper one with no pool.....complimentary  with breakfast\n..but no use ..breakfast  not halal ..  kids are  Very disappointing ....services  and staff very rude &  super slow ...",
+            "time": "2022-09-04T08:24:56+08:00"
+          },
+          {
+            "authorName": "Hannah Torres",
+            "authorURL": "https://www.google.com/maps/contrib/109890365044269582397/reviews",
+            "language": "en",
+            "profilePhoto": "https://lh3.googleusercontent.com/a-/AFdZucpLEIMkYBIikYd7Dmsgk_m5Ju30YlIHOI8eJk9AZA=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "text": "Reached around 4pm, however was told that my room was not ready even though check-in time written in the reservation was 3pm. Was told that it would take around an hour, so I left and called them again at around 5pm to confirm that my room was ready. Got there and spoke to the receptionist to collect the room card, was expecting them to take initiative to maybe offer a late check out due to having to wait, but nothing else was said. Called them in the evening to confirm check out time and they just stuck to 12pm. Overall, my stay was not terrible but definitely could've been better.",
+            "time": "2022-08-02T00:21:30+08:00"
+          },
+          {
+            "authorName": "Ajay J G",
+            "authorURL": "https://www.google.com/maps/contrib/101352872221987133365/reviews",
+            "language": "en",
+            "profilePhoto": "https://lh3.googleusercontent.com/a-/AFdZucqJ334W-vIuz2omuTWTNzU0uTXjBzdc8dTeSlk3yw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "text": "Stayed here for 3 nights, service could have been better, mainly housekeeping was not done 1 day. Rooms looked clean and tidy when arrived. Overall good experience.",
+            "time": "2022-09-07T07:12:59+08:00"
+          },
+          {
+            "authorName": "John Fan",
+            "authorURL": "https://www.google.com/maps/contrib/112397012889949503379/reviews",
+            "language": "en",
+            "profilePhoto": "https://lh3.googleusercontent.com/a-/AFdZucqfAb5UvhANKU2Sp_v_8GecpCnSVZBL5rHaJY9N3bM=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "text": "Planning a trip here in October and the hotel wanted to charge the full amount for cancellation even though I made the reservation minutes before. Should have looked closer at the refund options I suppose, but feels like fairly predatory practices to me. Recommend staying away based on the service I've experienced.",
+            "time": "2022-08-29T23:48:57+08:00"
+          },
+          {
+            "authorName": "Allen Pang",
+            "authorURL": "https://www.google.com/maps/contrib/100284877974837342943/reviews",
+            "language": "en",
+            "profilePhoto": "https://lh3.googleusercontent.com/a/AItbvmkeLtYmtaWEN193UgZcTpOt7d3L4wIpTvoZA5LO=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "text": "Don’t come to this hotel. They said that they are undergoing a regular maintenance exercise n blackout the hotel!!!  No electricity at the room but they asked us to stay there. Moreover, they can’t tell when will the exercise be completed. Is it Singapore? Is it a four-star hotel? No contingency plan!\n\nStrongly against people to come to this hotel or any hotel under this group!!!",
+            "time": "2022-08-03T15:30:20+08:00"
+          }
+        ],
+        "companyDisplayName": "Chinatown Business Association",
+        "supportedLanguage": [
+          "EN"
+        ],
+        "leadInRoomSize": "",
+        "noOfRooms": 0,
+        "amenities": "",
+        "contact": {
+          "primaryContactNo": "+65 6678 8333",
+          "secondaryContactNo": ""
+        },
+        "nearestMrtStation": "Outram MRT Station",
+        "officialWebsite": "https://www.dorsetthotels.com/en/index.html",
+        "officialEmail": "info.singapore@dorsetthotels.com",
+        "staYear": "",
+        "group": "SGClean",
+        "temporarilyClosed": "",
+        "links": [
+          {
+            "href": "https://api.stb.gov.sg/content-management/accommodation/v2/001a6038870d401408680eed2d279bb35f0",
+            "rel": "update",
+            "method": "PUT"
+          },
+          {
+            "href": "https://api.stb.gov.sg/content-management/accommodation/v2/001a6038870d401408680eed2d279bb35f0",
+            "rel": "delete",
+            "method": "DELETE"
+          }
+        ]
+      },
+      {
+        "uuid": "0017345e0a1d32943a696fa7dd59dbb3732",
+        "name": "DORSETT SINGAPORE",
+        "type": "Hotels",
+        "tags": [
+          "Explorers",
+          "Family-friendly",
+          "Couples",
+          "Architecture",
+          "Experiences",
+          "Central",
+          "Businesses",
+          "Families",
+          "Attractions",
+          "3-Days",
+          "Hotels",
+          "Neighbourhood",
+          "Chinatown",
+          "Lifestyles",
+          "Two People",
+          "2-Days",
+          "Culture",
+          "Short Stay"
+        ],
+        "description": "Where heritage meets modernity, Dorsett Singapore is a well-positioned mid-scale hotel committed to offering uncompromising contemporary living and a unpretentious comfortable experience for all guests.",
+        "body": "Dorsett Singapore has one of the best locations of all 4-star hotels in Singapore – right above the Outram Park MRT station. The hotel sits in historical Chinatown, and brings a striking yet sophisticated contrast to the traditional architecture of the surrounding precinct with its modern, full-glass façade.\nThe perfect hotel choice for the most discerning travellers, the hotel offers stylish and comfortable accommodation to enjoy, relax and refresh. Located at the edge of Chinatown, one of Singapore's main tourist attractions, the hotel extends easy accessibility to the city's commercial and tourist spots with just one MRT stop to HarbourFront (gateway to Sentosa, Resorts World Sentosa and Universal Studios Singapore), or 10 minutes drive to Orchard shopping belt and Marina Bay Sands. It offers easy access to major expressways ECP and CTE which are also accessible to the Changi Airport within 20 to 25 minutes drive. \nThe hotel's 285 high-ceilinged guestrooms and lofts have been designed with the considerations of the contemporary traveller’s comfort in mind, including PosturepedicTM mattresses so you’ll get the best night’s sleep possible. All rooms have high-speed wireless internet access and a 42” LED TV with international cable channels help you stay connected while in the global city of Singapore. Nearby are also a whole host of fashionable bars, cafés and restaurants – and while you’re exploring the local area, be sure to check out the unique and Instagram-worthy spots along Keong Saik Road.",
+        "rating": 4.1,
+        "location": {
+          "latitude": 1.279621,
+          "longitude": 103.840026
+        },
+        "address": {
+          "block": "333",
+          "streetName": "New Bridge Road",
+          "floorNumber": "",
+          "unitNumber": "",
+          "buildingName": "Dorsett Singapore",
+          "postalCode": "088765"
+        },
+        "thumbnails": [
+          {
+            "uuid": "101215375f5b5d24f519d8c0c2021156e0c",
+            "url": "",
+            "libraryUuid": "104e17514a746024946bd4458e06fc6fff5",
+            "primaryFileMediumUuid": "101215375f5b5d24f519d8c0c2021156e0c"
+          }
+        ],
+        "images": [
+          {
+            "uuid": "101f76da96e4824450893aa93608c1423a8",
+            "url": "",
+            "libraryUuid": "104298668f722084c4d98a457011e2ff200",
+            "primaryFileMediumUuid": "101dccc4d22acbf4f49a041062f966cb87e"
+          },
+          {
+            "uuid": "10109a899edb03f494ea3ace6cdd7dbbb47",
+            "url": "",
+            "libraryUuid": "104c03b4e81e74c4c2bb046b45a55cd4477",
+            "primaryFileMediumUuid": "1011ed22bcbc3264d7fa2a9c4e5f1763810"
+          },
+          {
+            "uuid": "10153dd6cc9e4654f078ab921b4fb3eea25",
+            "url": "",
+            "libraryUuid": "104e17514a746024946bd4458e06fc6fff5",
+            "primaryFileMediumUuid": "101215375f5b5d24f519d8c0c2021156e0c"
+          },
+          {
+            "uuid": "1011507d18f559543ebbe24389e09cf9fd7",
+            "url": "",
+            "libraryUuid": "104c32a228f7b9b4803b8f477dc73586ad8",
+            "primaryFileMediumUuid": "101f706717db45c451e97ca3fa29866fd2f"
+          },
+          {
+            "uuid": "101965cb9464d054ac29fdc4f638cf7c1e6",
+            "url": "",
+            "libraryUuid": "104565cb31df65548ec8bfa74f14ccdc371",
+            "primaryFileMediumUuid": "101b45dc774ef1e466c957d289edb481faf"
+          },
+          {
+            "uuid": "1013d5a5598a79642728f5a7468e68909f5",
+            "url": "",
+            "libraryUuid": "10448e03f559ba84be3938676fd33373d1a",
+            "primaryFileMediumUuid": "1012c2291fb44674f4abe3e551afcc771d1"
+          },
+          {
+            "uuid": "101ce4be02376c94361953ba47a85bb6e95",
+            "url": "",
+            "libraryUuid": "104a8af859059cb4ad09f412c4dbc26d5ad",
+            "primaryFileMediumUuid": "1017c8ea711a01143b59cc04c3308646838"
+          },
+          {
+            "uuid": "1013a0d9fe4a6814bf0be815afbdde672d4",
+            "url": "",
+            "libraryUuid": "104ac77ae568a434ed9b229850763c14f44",
+            "primaryFileMediumUuid": "10198677b9207e54263af8aae6437aa6928"
+          },
+          {
+            "uuid": "101d046ec7acaf9463fa55a39483ac00795",
+            "url": "",
+            "libraryUuid": "104363e3a677ff34f8bbf95f344b888c7d2",
+            "primaryFileMediumUuid": "10193790397bfcd4ce2b778a25fd496840b"
+          },
+          {
+            "uuid": "101bd94bb3750e1438ca73009b7e7395e79",
+            "url": "",
+            "libraryUuid": "1041fa3ff45dd6b40fda76077c01e5a3ad9",
+            "primaryFileMediumUuid": "10114cf92b9231f4c569c5e4a62eee474cf"
+          }
+        ],
+        "videos": [],
+        "documents": [],
+        "source": "DORSETT SINGAPORE",
+        "metadata": {
+          "updatedDate": "2020-07-28T11:43:05+08:00",
+          "createdDate": "2020-07-28T11:43:05+08:00"
+        },
+        "categoryDescription": "Accommodation",
+        "dataset": "accommodation",
+        "leadInRoomRates": "",
+        "reviews": [
+          {
+            "authorName": "Norhayati Shamsudin",
+            "authorURL": "https://www.google.com/maps/contrib/105236533792511246291/reviews",
+            "language": "en",
+            "profilePhoto": "https://lh3.googleusercontent.com/a/AItbvmnbEspPzbuEMe2YWmBqIT5wvMuBJ49K8mx1ZKyg=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "text": "1 star just because it good location. The room is not clean upon check in .. Pool is closed and we never got told this before so we just wasted a lot of money on this hotel as we wanted a pool for our kids ...is better we could have stayed in a cheaper one with no pool.....complimentary  with breakfast\n..but no use ..breakfast  not halal ..  kids are  Very disappointing ....services  and staff very rude &  super slow ...",
+            "time": "2022-09-04T08:24:56+08:00"
+          },
+          {
+            "authorName": "Hannah Torres",
+            "authorURL": "https://www.google.com/maps/contrib/109890365044269582397/reviews",
+            "language": "en",
+            "profilePhoto": "https://lh3.googleusercontent.com/a-/AFdZucpLEIMkYBIikYd7Dmsgk_m5Ju30YlIHOI8eJk9AZA=s128-c0x00000000-cc-rp-mo",
+            "rating": 3,
+            "text": "Reached around 4pm, however was told that my room was not ready even though check-in time written in the reservation was 3pm. Was told that it would take around an hour, so I left and called them again at around 5pm to confirm that my room was ready. Got there and spoke to the receptionist to collect the room card, was expecting them to take initiative to maybe offer a late check out due to having to wait, but nothing else was said. Called them in the evening to confirm check out time and they just stuck to 12pm. Overall, my stay was not terrible but definitely could've been better.",
+            "time": "2022-08-02T00:21:30+08:00"
+          },
+          {
+            "authorName": "Ajay J G",
+            "authorURL": "https://www.google.com/maps/contrib/101352872221987133365/reviews",
+            "language": "en",
+            "profilePhoto": "https://lh3.googleusercontent.com/a-/AFdZucqJ334W-vIuz2omuTWTNzU0uTXjBzdc8dTeSlk3yw=s128-c0x00000000-cc-rp-mo-ba2",
+            "rating": 5,
+            "text": "Stayed here for 3 nights, service could have been better, mainly housekeeping was not done 1 day. Rooms looked clean and tidy when arrived. Overall good experience.",
+            "time": "2022-09-07T07:12:59+08:00"
+          },
+          {
+            "authorName": "John Fan",
+            "authorURL": "https://www.google.com/maps/contrib/112397012889949503379/reviews",
+            "language": "en",
+            "profilePhoto": "https://lh3.googleusercontent.com/a-/AFdZucqfAb5UvhANKU2Sp_v_8GecpCnSVZBL5rHaJY9N3bM=s128-c0x00000000-cc-rp-mo-ba3",
+            "rating": 1,
+            "text": "Planning a trip here in October and the hotel wanted to charge the full amount for cancellation even though I made the reservation minutes before. Should have looked closer at the refund options I suppose, but feels like fairly predatory practices to me. Recommend staying away based on the service I've experienced.",
+            "time": "2022-08-29T23:48:57+08:00"
+          },
+          {
+            "authorName": "Allen Pang",
+            "authorURL": "https://www.google.com/maps/contrib/100284877974837342943/reviews",
+            "language": "en",
+            "profilePhoto": "https://lh3.googleusercontent.com/a/AItbvmkeLtYmtaWEN193UgZcTpOt7d3L4wIpTvoZA5LO=s128-c0x00000000-cc-rp-mo",
+            "rating": 1,
+            "text": "Don’t come to this hotel. They said that they are undergoing a regular maintenance exercise n blackout the hotel!!!  No electricity at the room but they asked us to stay there. Moreover, they can’t tell when will the exercise be completed. Is it Singapore? Is it a four-star hotel? No contingency plan!\n\nStrongly against people to come to this hotel or any hotel under this group!!!",
+            "time": "2022-08-03T15:30:20+08:00"
+          }
+        ],
+        "companyDisplayName": "DORSETT SINGAPORE",
+        "supportedLanguage": [
+          "EN"
+        ],
+        "leadInRoomSize": "22 sqm",
+        "noOfRooms": 285,
+        "amenities": "Business Centre,Baby Cot,Smoke-free Hotel,Free Wi-Fi,Wheelchair Accessible,Swimming Pool,Laundry & Dry Cleaning,Gym,Carpark,Connecting Rooms",
+        "contact": {
+          "primaryContactNo": "+6566788333",
+          "secondaryContactNo": ""
+        },
+        "nearestMrtStation": "Outram Park Station",
+        "officialWebsite": "https://www.dorsetthotels.com/en/dorsett-singapore/index.html",
+        "officialEmail": "info.singapore@dorsetthotels.com",
+        "staYear": "",
+        "group": "SGClean",
+        "temporarilyClosed": "",
+        "links": [
+          {
+            "href": "https://api.stb.gov.sg/content-management/accommodation/v2/0017345e0a1d32943a696fa7dd59dbb3732",
+            "rel": "update",
+            "method": "PUT"
+          },
+          {
+            "href": "https://api.stb.gov.sg/content-management/accommodation/v2/0017345e0a1d32943a696fa7dd59dbb3732",
+            "rel": "delete",
+            "method": "DELETE"
+          }
+        ]
+      }
+    ]
+}
