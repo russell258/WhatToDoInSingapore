@@ -29,9 +29,9 @@ export interface Accomodation{
         buildingName: string;
         postalCode: string
     };
-    thumbnails: [];
-    images?: Image[];
-    videos: [];
+    thumbnails?: Media[];
+    images?: Media[];
+    videos?: Media[];
     documents:[];
     source: string;
     metadata:{
@@ -76,7 +76,7 @@ export interface Link{
     method: string;
 }
 
-export interface Image{
+export interface Media{
     uuid: string;
     url: string;
     libraryUuid: string;
