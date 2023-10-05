@@ -1,1 +1,40 @@
-<p>accomodation works!</p>
+<div class="container" style="border-color:black">
+    <h1>Displaying Search result for "OUTRAM"</h1>
+    <hr>
+    <table style="border: 1px solid black">
+        <td>No.</td>
+        <td>UUID</td>
+        <td>Accomodation</td>
+        <td>Accomodaation Type</td>
+        <td>Description</td>
+        <td>Contact</td>
+        <td>Rating</td>
+        <td>Reviews</td>
+        <tr *ngFor="let a of accomodationList?.data;let i = index">
+            <td>
+                {{i+1}}
+            </td>
+            <td>
+                {{a.uuid}}
+            </td>
+            <td>
+                {{a.name}}, {{a.address.streetName}}
+            </td>
+            <td>
+                {{a.type}}
+            </td>
+            <td>
+                {{a.description}}
+            </td>
+            <td>
+                {{a.contact.primaryContactNo}}
+            </td>
+            <td>
+                {{a.rating}}
+            </td>
+            <td>
+                {{a.reviews.length}}
+            </td>
+        </tr>
+    </table>
+</div>

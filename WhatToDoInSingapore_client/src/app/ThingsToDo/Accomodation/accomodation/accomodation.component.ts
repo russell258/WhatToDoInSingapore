@@ -10,6 +10,8 @@ export class AccomodationComponent {
 
   constructor(private apiSvc: APIService){}
 
+  accomodationList!: any;
+
   ngOnInit():void{
     this.getAccomodationByKeyword('outram');
   }
@@ -18,6 +20,7 @@ export class AccomodationComponent {
     this.apiSvc.getAccoms(searchInput).subscribe(
       (v)=>{
         console.log(v);
+        this.accomodationList=v;
       }
     );
   }

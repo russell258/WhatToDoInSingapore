@@ -19,7 +19,7 @@ export class APIService {
     let headers:any;
 
     //this headers API key need to shift to backend
-    headers = new HttpHeaders().set('X-API-Key', 'JAPI KEY shift to backend');
+    headers = new HttpHeaders().set('X-API-Key', 'JGzhm5sEuBPsmHqWWdFUD4EBGgP3Bio5');
 
     switch(method.toLowerCase()){
       case 'get':
