@@ -4,23 +4,8 @@
 <p>Accomodation || Attractions || Bars & Clubs || Cruises || Events || F&B || Malls & Shops || Tours || Venues || Walking Trails</p>
 
 <div>
-    <a [routerLink]="['/accomodation']">Accomodation</a>
-    <hr>
-    <a [routerLink]="['/attractions']">Attractions</a>
-    <hr>
-    <a [routerLink]="['/nightlife']">Bars & Clubs</a>
-    <hr>
-    <a [routerLink]="['/cruises']">Cruises</a>
-    <hr>
-    <a [routerLink]="['/events']">Events</a>
-    <hr>
-    <a [routerLink]="['/fb']">Food & Beverages</a>
-    <hr>
-    <a [routerLink]="['/shoppingmall']">Malls & Shops</a>
-    <hr>
-    <a [routerLink]="['/tours']">Tours</a>
-    <hr>
-    <a [routerLink]="['/venues']">Venues</a>
-    <hr>
-    <a [routerLink]="['/trails']">Walking Trails</a>
+    <div *ngFor="let link of linkArray">
+        <a [routerLink]="[link]">{{determineTextFromLink(link)}}</a>
+        <hr>
+    </div>
 </div>
