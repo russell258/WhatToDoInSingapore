@@ -1,11 +1,12 @@
+<!-- To shift navbar to individual component -->
 <h1>Welcome, look for things to do in Singapore</h1>
 
 <p>5 rows x 2 columns grid for this</p>
 <p>Accomodation || Attractions || Bars & Clubs || Cruises || Events || F&B || Malls & Shops || Tours || Venues || Walking Trails</p>
+<!-- To shift navbar to individual component -->
 
-<div>
-    <div *ngFor="let link of linkArray">
-        <a [routerLink]="[link]">{{determineTextFromLink(link)}}</a>
-        <hr>
+<div class="link-card-container">
+    <div *ngFor="let link of linkArray" class="link-card">
+        <a [routerLink]="['/', link]" class="link-card-text">{{determineTextFromLink(link)}}</a>
     </div>
 </div>
